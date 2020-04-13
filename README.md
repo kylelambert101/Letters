@@ -1,3 +1,7 @@
+Letters is a React word game - see how short of a sentence you can come up with that includes all letters in the English alphabet!
+
+The app keeps track of which letters are accounted for so far and color-codes the alphabet accordingly. It also displays a running character count for the sentence and any repeat characters found so far. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
